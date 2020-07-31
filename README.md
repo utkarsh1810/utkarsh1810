@@ -15,5 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="gif.gif" />
+<p align="center"> 
+  <kbd>
+<img src="gif.gif"></img>
+  </kbd>
+</p>
+
+# Connect with me <img src="Handshake.gif" height="32px" />
+
+ [<img src="Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/-me-utkarsh/) | [<img src="Gmail.svg" alt="Gmail logo" height="32">](mailto:utkarshverma782@gmail.com)
 
