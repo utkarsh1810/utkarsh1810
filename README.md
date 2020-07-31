@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> 
-  <kbd>
-<!-- <img src="gif.gif"></img> -->
 ![gif](https://user-images.githubusercontent.com/42411352/89076523-18a54800-d39e-11ea-84ab-0e3158340281.gif)
 
-  </kbd>
-</p>
+  
+
 
 # Connect with me <img src="Handshake.gif" height="32px" />
 
