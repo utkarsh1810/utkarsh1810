@@ -15,12 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![gif](https://user-images.githubusercontent.com/42411352/89076523-18a54800-d39e-11ea-84ab-0e3158340281.gif)
-
+![ezgif com-optimize](https://user-images.githubusercontent.com/42411352/89099822-ae2cf000-d40f-11ea-8b6e-b389224af2d2.gif)
   
-
-
-# Connect with me <img src="Handshake.gif" height="32px" />
-
- [<img src="Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/-me-utkarsh/) <pre> </pre> [<img src="Gmail.svg" alt="Gmail logo" height="32">](mailto:utkarshverma782@gmail.com)
-
