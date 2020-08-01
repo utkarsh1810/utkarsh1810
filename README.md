@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> 
-  <kbd>
-<img src="git.gif"></img>
-  </kbd>
-</p>
+![ezgif com-optimize](https://user-images.githubusercontent.com/42411352/89099822-ae2cf000-d40f-11ea-8b6e-b389224af2d2.gif)
 
   
